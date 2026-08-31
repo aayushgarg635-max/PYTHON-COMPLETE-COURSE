@@ -1,0 +1,15 @@
+a = int(input("Enter number 1: "))
+b = int(input("Enter number 2: "))
+c = int(input("Enter number 3: "))
+d = int(input("Enter number 4: "))
+e = int(input("Enter number 5: "))
+f = int(input("Enter number 6: "))
+
+print("Number a is: ", a)
+print("Number b is: ", b)
+print("Number c is: ", c)
+print("Number d is: ", d)
+print("Number e is: ", e)
+print("Number f is: ", f)
+print("sum is", a + b + c + d + e + f )
+
