@@ -1,3 +1,0 @@
-print ( "PIP is the package manager for python you can use pip to install module in your system")
-# DEFIANTION OF PIP WHICH IS PACKAGE MANAGER
-# ITS EXAMPLE IS PYJOKES WECAN USE PIP INSTALL PYJOKES IN TERMINAL TO USE PYJOKES OR SAME MODULES IN THE SAME WAY ...
