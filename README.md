@@ -1,12 +1,15 @@
 
-# 🐍 PYTHON COMPLETE COURSE - Code With Harry
+# 🐍 PYTHON COMPLETE COURSE 
 
 This repository is a record of my Python learning journey. Each chapter's concepts and practice sets will be added separately.
 
 ## 📁 Structure
 - Chapter-01 - Basics, pip, modules
-- Chapter-02 - (Coming Soon)
+- Chapter-02 - Variables , Datatypes
 - Chapter-03 - (Coming Soon)
+- Chapter-04 - (Coming Soon)
+- Chapter-05 - (Coming Soon)
+- Chapter-06 - (Coming Soon)
 ... more will be added as I move forward
 
 ## 🚀 Progress
