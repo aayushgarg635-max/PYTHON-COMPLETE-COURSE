@@ -6,7 +6,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 ## 📁 Structure
 - Chapter-01 - Basics, pip, modules
 - Chapter-02 - Variables , Datatypes
-- Chapter-03 - (Coming Soon)
+- Chapter-03 - Strings
 - Chapter-04 - (Coming Soon)
 - Chapter-05 - (Coming Soon)
 - Chapter-06 - (Coming Soon)
