@@ -15,7 +15,11 @@ This repository is a record of my Python learning journey. Each chapter's concep
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [ ] Ch-01 Practice Set
-- [ ] Ch-02
+- [ ] Ch-02 Concepts
+- [ ] ch-02 Practice Set
+- [ ] ch-03 Concepts
+- [ ] ch-03 Practice Sets
+- [ ] ch-04 COMING SOON...
 
 ## 🛠️ Tech
 - Python 3
