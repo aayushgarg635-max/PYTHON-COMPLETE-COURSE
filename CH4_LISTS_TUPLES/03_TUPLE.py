@@ -1,0 +1,7 @@
+a = (1,2,4,6,8,9)
+print(a)
+print(type(a))
+a=(1)
+print(type(a))
+a = (1,)
+print(type(a))
