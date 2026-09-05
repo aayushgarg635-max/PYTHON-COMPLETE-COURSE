@@ -10,6 +10,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-04 - Lists and Tuples
 - Chapter-05 - (Coming Soon)
 - Chapter-06 - (Coming Soon)
+- Chapter-07 - (Coming Soon)
+- Chapter-08 - (Coming Soon)
 ... more will be added as I move forward
 
 ## 🚀 Progress
@@ -19,7 +21,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [ ] ch-02 Practice Set
 - [ ] ch-03 Concepts
 - [ ] ch-03 Practice Sets
-- [ ] ch-04 COMING SOON...
+- [ ] ch-04 Concepts
+- [ ] ch-04 Practice set
 
 ## 🛠️ Tech
 - Python 3
