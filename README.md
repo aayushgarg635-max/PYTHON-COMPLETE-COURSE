@@ -1,5 +1,5 @@
 
-# 🐍 PYTHON COMPLETE COURSE 
+# 🐍 MY PYTHON LEARNING JOURNEY 
 
 This repository is a record of my Python learning journey. Each chapter's concepts and practice sets will be added separately.
 
