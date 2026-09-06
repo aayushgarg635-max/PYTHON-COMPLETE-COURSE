@@ -8,7 +8,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-02 - Variables , Datatypes
 - Chapter-03 - Strings
 - Chapter-04 - Lists and Tuples
-- Chapter-05 - (Coming Soon)
+- Chapter-05 - Dictionaries and Sets
 - Chapter-06 - (Coming Soon)
 - Chapter-07 - (Coming Soon)
 - Chapter-08 - (Coming Soon)
@@ -23,6 +23,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [ ] ch-03 Practice Sets
 - [ ] ch-04 Concepts
 - [ ] ch-04 Practice set
+- [ ] ch-05 Concepts
 
 ## 🛠️ Tech
 - Python 3
