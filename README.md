@@ -24,6 +24,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [ ] ch-04 Concepts
 - [ ] ch-04 Practice set
 - [ ] ch-05 Concepts
+- [ ] ch-05 Practice Set
+- [ ] 
 
 ## 🛠️ Tech
 - Python 3
