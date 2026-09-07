@@ -30,4 +30,5 @@ This repository is a record of my Python learning journey. Each chapter's concep
 ## 🛠️ Tech
 - Python 3
 - VS Code
-
+- ## MY PERSONAL NOTE
+- I am Experimenting in many files of concepts and problems running or using a function twice or thrice to get better understanding solving problems multiple times of Concpets like Dictonaries,Sets,Tuples,Lists as i had completed till chapter 5  
