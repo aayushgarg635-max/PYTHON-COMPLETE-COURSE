@@ -9,7 +9,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-03 - Strings
 - Chapter-04 - Lists and Tuples
 - Chapter-05 - Dictionaries and Sets
-- Chapter-06 - (Coming Soon)
+- Chapter-06 - Conditional Expression 
 - Chapter-07 - (Coming Soon)
 - Chapter-08 - (Coming Soon)
 ... more will be added as I move forward
@@ -25,7 +25,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [ ] ch-04 Practice set
 - [ ] ch-05 Concepts
 - [ ] ch-05 Practice Set
-- [ ] 
+- [ ] ch-06 concepts
 
 ## 🛠️ Tech
 - Python 3
