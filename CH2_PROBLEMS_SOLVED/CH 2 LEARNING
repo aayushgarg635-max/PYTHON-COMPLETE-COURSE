@@ -1,0 +1,3 @@
+Always use brackets in calculations
+a%b is a modulus operator
+Output of input is always a string
