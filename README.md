@@ -33,4 +33,4 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - ## MY PERSONAL NOTE
 - I am Experimenting a lot  in many files of concepts and problems running or using a function twice or thrice to get
 - better understanding solving problems multiple times of Concepts like empty set etc.
- As i had completed till chapter 5 to make make my logic clear all codes are written by me while learning 
+ As i had completed till chapter 6 to make make my logic clear all codes are written by me while learning 
