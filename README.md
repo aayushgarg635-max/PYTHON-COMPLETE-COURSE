@@ -31,7 +31,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 ## 🛠️ Tech
 - Python 3
 - VS Code
-- ## MY PERSONAL NOTE
 - EXPERIMENTING
 - LEARNING
-- PROGRRAMING 
+- PROGRRAMING
+- REVISING
+- CODE-BUILT-REPEAT
