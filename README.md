@@ -27,10 +27,11 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [ ] ch-05 Practice Set
 - [ ] ch-06 concepts
 - [ ] ch-06 Practice set
+- [ ] ch-07 Concepts
 ## 🛠️ Tech
 - Python 3
 - VS Code
 - ## MY PERSONAL NOTE
-- I am Experimenting a lot  in many files of concepts and problems running or using a function twice or thrice to get
-- better understanding solving problems multiple times of Concepts like empty set etc.
- As i had completed till chapter 6 to make make my logic clear all codes are written by me while learning 
+- EXPERIMENTING
+- LEARNING
+- PROGRRAMING 
