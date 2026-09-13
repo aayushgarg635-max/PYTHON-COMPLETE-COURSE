@@ -1,5 +1,5 @@
 
-# 🐍 MY PYTHON FUNDAMENTAL REPO
+# 🐍 MY PYTHON FUNDAMENTALS REPO
 
 This repository is a record of my Python learning journey. Each chapter's concepts and practice sets will be added separately.
 
@@ -36,5 +36,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - LEARNING
 - PROGRRAMING
 - REVISING
-- CODE-BUILT-REPEAT
+- CODE
+- BUILT
+- REPEAT
 NOTE - CURRENTLY NOT USING ANY AI TOOLS ALMOST IN ANY THING TO BUILD STRONG MEMORY AND LOGIC.
