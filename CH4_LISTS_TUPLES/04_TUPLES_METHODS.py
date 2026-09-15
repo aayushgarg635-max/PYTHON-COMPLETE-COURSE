@@ -16,3 +16,5 @@ print(len(b))
 t = ("a", "b", "c", "b")
 t.index("b")      # 1
 t.index("b", 2)   # 3
+print(t.index("b")) # will print 1
+print(t.index("b",2)) # will print 3
