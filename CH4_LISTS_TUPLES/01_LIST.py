@@ -9,6 +9,6 @@ print(freinds[1])
 # Unlike Strings lists are mutable
 print(freinds[0:4])
 
-friends=["rohan","sohan","mohan"]
+friends=["rohan","sohan","mohan"] # same variable name
 print(freinds)
 print(freinds[2])
