@@ -1,5 +1,5 @@
 
-# 🐍 MY PYTHON FUNDAMENTALS REPO
+# 🐍 MY PYTHON COMPLETE COURSE - FUNDAMENTALS
 
 This repository is a record of my Python learning journey. Each chapter's concepts and practice sets will be added separately.
 
@@ -11,33 +11,30 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-05 - Dictionaries and Sets
 - Chapter-06 - Conditional Expression 
 - Chapter-07 - Loops
-- Chapter-08 - Functions and Resccursions
-... more will be added as I move forward
+- Chapter-08 - Functions and Recursions
 
 ## 🚀 Progress
 - [x] Ch-01 Concepts
-- [ ] Ch-01 Practice Set
-- [ ] Ch-02 Concepts
-- [ ] ch-02 Practice Set
-- [ ] ch-03 Concepts
-- [ ] ch-03 Practice Sets
-- [ ] ch-04 Concepts
-- [ ] ch-04 Practice set
-- [ ] ch-05 Concepts
-- [ ] ch-05 Practice Set
-- [ ] ch-06 concepts
-- [ ] ch-06 Practice set
-- [ ] ch-07 Concepts
-- [ ] ch-07 Practice set
-- [ ] ch-08 Concepts
+- [x] Ch-01 Practice Set
+- [x] Ch-02 Concepts
+- [x] ch-02 Practice Set
+- [x] ch-03 Concepts
+- [x] ch-03 Practice Sets
+- [x] ch-04 Concepts
+- [x] ch-04 Practice set
+- [x] ch-05 Concepts
+- [x] ch-05 Practice Set
+- [x] ch-06 concepts
+- [x] ch-06 Practice set
+- [x] ch-07 Concepts
+- [x] ch-07 Practice set
+- [x] ch-08 Concepts
 ## 🛠️ Tech
 - Python 3
 - VS Code
-- EXPERIMENTING
-- LEARNING
-- PROGRRAMING
-- REVISING
-- CODE
-- BUILT
-- REPEAT
-NOTE - CURRENTLY NOT USING ANY AI TOOLS ALMOST IN ANY THING TO BUILD STRONG MEMORY AND LOGIC.
+## LEARNING APPROACH
+- Handwritten notes
+- Regular commits
+- Focusing on logic building
+- Revising and rebuilding concepts daily
+- Currently not using any AI majorly  to build strong core concepts in programming
