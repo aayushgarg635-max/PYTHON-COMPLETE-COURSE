@@ -19,4 +19,4 @@ output:
 i = 0
 while i < 10: # print "Harry" - 5 times!
       print("Harry")
-i = i + 1
+      i = i + 1 # must be inside it
