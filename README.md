@@ -39,8 +39,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Revising and rebuilding concepts daily
 - Currently not using any AI majorly  to build strong core concepts in logicbuilding and programming
 # Mini projects i will be building after completion of this course :
+- Calculator
 - Robo speaker
 - PDF merger
 - Jarvis chatbot
-- Calculator
 - Facial recognisation etc.
