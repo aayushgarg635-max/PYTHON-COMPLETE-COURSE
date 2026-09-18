@@ -26,20 +26,20 @@ print(f)
 # Truth table of 'or'
 print("True or False is", True or False)
 print("True or True is", True or False)
-print("False or True is", True or False)
-print("False or False is", True or False)
+print("False or True is", False or True)
+print("False or False is", False or True)
 # Truth table of 'and'
 print("True and False is", True and False)
-print("True and True is", True and False)
+print("True and True is", True and True)
 print("False and True is", True and False)
 print("False and False is", True and False)
 
 g = 5!=9
 f = 7==7
 
-# JO FALSE KO TRUE AUR TRUE KO FALSE BANA DE USSE NON OPERATOR KEHTE HAI
+# JO FALSE KO TRUE AUR TRUE KO FALSE BANA DE USSE NOT OPERATOR KEHTE HAI
 
-# Logical Operatrors 
+# Logical Operators 
 
 p = True or False 
 print(p)
