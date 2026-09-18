@@ -3,5 +3,6 @@ b = 8.76 # b is a floating number
 c = "harry" # c is string
 d = False  # d is a boolean variable
 e = None # e is none type variable
+print(type(a),type(b),type(c),type(d),type(e))
 
 
