@@ -33,7 +33,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Python 3
 - VS Code
 ## LEARNING APPROACH
-- Handwritten notes
+- Handbook
 - Regular commits
 - Focusing on logic building
 - Revising and rebuilding concepts daily
@@ -44,3 +44,5 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - PDF merger
 - Jarvis chatbot
 - Facial recognisation etc.
+- PERSONAL
+- B.Tech IT student at ADGIPS 
