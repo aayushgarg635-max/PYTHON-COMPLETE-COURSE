@@ -29,4 +29,4 @@ a = {
 }
 print(a["key"]) # Output: "value"
 print(a["list"]) # Output: [1, 2, 9]
-# DICTIONARY IS THE COLLECTION OF KEY VALUE PAIRS
+# DICTIONARY is basicaly the collection of key value pairs
