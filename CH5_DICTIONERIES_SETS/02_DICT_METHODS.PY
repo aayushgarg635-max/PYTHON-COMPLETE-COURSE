@@ -21,7 +21,7 @@ d = {} # EMPTY DICTIONARY
 print(marks.get("aayush"))
 print(marks.get("shivam")) # RETURNS NONE
 # print(marks[harry2]) # WILL GIVE AN ERROR
-#  # methods got from AI
+#  # Methods given by AI GOOGLE
 #  user = {"name": "Alice", "role": "Admin"}
 # print(user.keys())    # dict_keys(['name', 'role']) 
 # print(user.values())  # dict_values(['Alice', 'Admin'])
