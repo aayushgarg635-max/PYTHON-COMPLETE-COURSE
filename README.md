@@ -29,6 +29,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [x] ch-07 Concepts
 - [x] ch-07 Practice set
 - [x] ch-08 Concepts
+- [ ] ch-08 Practice set
 ## 🛠️ Tech
 - Python 3
 - VS Code
@@ -44,5 +45,5 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - PDF merger
 - Jarvis chatbot
 - Facial recognisation etc.
-- PERSONAL
-- B.Tech IT student at ADGIPS 
+- PERSONAL DETAILS:
+- B.Tech IT student at ADGIPS(GGSIPU)
