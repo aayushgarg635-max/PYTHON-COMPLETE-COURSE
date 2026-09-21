@@ -4,7 +4,7 @@ print(3)
 print(4)
 print(5)
 # THIS SAME TASK CAN BE DONE BY HELP OF LOOPS EFFEICNTLY
-for i in range(1 , 12):
+for i in range(1 , 12): # Last number is excluded so(1,2,3,4,5,6,7,8,9,10,11)
    print(i)
 
 for i in range(1,7):
