@@ -1,9 +1,9 @@
-str = "harry"
-index = str.find("rr")
+name = "harry"
+index = name.find("rr")
 print(index) # Output: 2
 
-str="aayush"
-index= str.find("yus")
+name="aayush"
+index= name.find("yus")
 print(index) # Output : 3
 
 str = "harry"
