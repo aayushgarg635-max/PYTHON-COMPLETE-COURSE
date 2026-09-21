@@ -1,6 +1,6 @@
 # lists can have mixed datatypes and indexing
 friends = ["apple","orange",276,True,False , "variables"]
-print(freinds[0]) #apple
+print(friends[0]) #apple
 #append()-add items at the end
 friends.append("harry potter")
 print(friends)
