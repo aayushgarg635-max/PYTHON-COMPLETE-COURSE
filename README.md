@@ -3,6 +3,9 @@
 
 This repository is a record of my Python learning journey. Each chapter's concepts and practice sets will be added separately.
 
+PERSONAL DETAILS:
+- B.Tech IT student at GGSIPU
+(1ST YEAR)
 ## 📁 Structure
 - Chapter-01 - Basics, pip, modules
 - Chapter-02 - Variables , Datatypes
@@ -45,5 +48,4 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - PDF merger
 - Jarvis chatbot
 - Facial recognisation etc.
-- PERSONAL DETAILS:
-- B.Tech IT student at ADGIPS(GGSIPU)
+
