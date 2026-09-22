@@ -2,6 +2,6 @@ import pyjokes
 
 joke=pyjokes.get_joke()
 print(joke)
-#  THIS IS A PYTHON PROGRAMME FOR GETTING JOKES USING PYJOKES MODULE.
-# REVISON OF MODULE USAGE
+# this is python programme which will print jokes
+# revison of how to use module in python 
 
