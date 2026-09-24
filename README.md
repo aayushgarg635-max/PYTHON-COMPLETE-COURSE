@@ -37,8 +37,8 @@ PERSONAL DETAILS:
 - Python 3
 - VS Code
 ## LEARNING APPROACH
-- Handbook
-- Regular commits
+- Handbook Revision
+- Regular commits on github
 - Focusing on logic building
 - Revising and rebuilding concepts daily
 - Currently not using any AI majorly  to build strong core concepts in logicbuilding and programming
