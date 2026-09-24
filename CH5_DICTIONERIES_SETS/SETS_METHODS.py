@@ -17,5 +17,12 @@ print(f" type of s:{type(s)}")
 # clear:empties the set
 s.clear()
 print(f" after clear:{s}")
+# update - updates the set 
+skills = {"Python", "HTML"}
+new_skills = ["CSS", "JavaScript", "Python"]  # A list
+
+skills.update(new_skills)
+print(skills)  # {'Python', 'HTML', 'CSS', 'JavaScript'}
+
 
 
