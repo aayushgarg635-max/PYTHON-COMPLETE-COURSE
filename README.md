@@ -15,7 +15,7 @@ PERSONAL DETAILS:
 - Chapter-06 - Conditional Expression 
 - Chapter-07 - Loops
 - Chapter-08 - Functions and Recursions
-
+- Chaptee-09 - File I/O
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
@@ -37,12 +37,13 @@ PERSONAL DETAILS:
 - Python 3
 - VS Code
 ## LEARNING APPROACH
-- Handbook Revision
+- Handbook Revision and Review
 - Regular commits on github
 - Focusing on logic building
 - Revising and rebuilding concepts daily
 - Currently not using any AI majorly  to build strong core concepts in logicbuilding and programming
 # Mini projects i will be building after completion of this course :
+- snake water gun game
 - Calculator
 - Robo speaker
 - PDF merger
