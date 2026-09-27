@@ -44,6 +44,7 @@ PERSONAL DETAILS:
 - Currently not using any AI majorly  to build strong core concepts in logicbuilding and programming
 # Mini projects i will be building after completion of this course :
 - snake water gun game
+- Perfect guess
 - Calculator
 - Robo speaker
 - PDF merger
