@@ -48,5 +48,6 @@ PERSONAL DETAILS:
 - Robo speaker
 - PDF merger
 - Jarvis chatbot
+- AI auto reply chatbot
 - Facial recognisation etc.
 
