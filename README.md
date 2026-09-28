@@ -16,6 +16,7 @@ PERSONAL DETAILS:
 - Chapter-07 - Loops
 - Chapter-08 - Functions and Recursions
 - Chaptee-09 - File I/O
+- chapter-10 OOPS in programming
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
