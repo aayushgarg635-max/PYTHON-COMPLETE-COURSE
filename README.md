@@ -4,7 +4,7 @@
 This repository is a record of my Python learning journey. Each chapter's concepts and practice sets will be added separately.
 
 PERSONAL DETAILS:
-- B.Tech IT student at GGSIPU(ADGIPS)
+- B.Tech IT student at GGSIPU(ADGIPS),Delhi
 (1ST YEAR)
 ## 📁 Structure
 - Chapter-01 - Basics, pip, modules
