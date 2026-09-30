@@ -17,6 +17,7 @@ PERSONAL DETAILS:
 - Chapter-08 - Functions and Recursions
 - Chaptee-09 - File I/O
 - chapter-10 OOPS in  python programming
+- chapter-11 Inheritance in OOPS
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
