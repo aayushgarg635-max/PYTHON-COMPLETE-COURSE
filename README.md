@@ -18,7 +18,8 @@ PERSONAL DETAILS:
 - Chaptee-09 - File I/O
 - chapter-10 OOPS in  python programming
 - chapter-11 Inheritance in OOPS
-- chapter-12 Advanced python
+- chapter-12 Advanced python - 1
+- chapter-13 Advanced python - 2
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
@@ -37,6 +38,7 @@ PERSONAL DETAILS:
 - [x] ch-08 Concepts
 - [x] ch-08 Practice set
 - [x] project 1 - snake water gun game
+- [ ] chapter-09 Concepts
 ## 🛠️ Tech
 - Python 3
 - VS Code
