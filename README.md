@@ -39,6 +39,7 @@ PERSONAL DETAILS:
 - [x] ch-08 Practice set
 - [x] project 1 - snake water gun game
 - [ ] chapter-09 Concepts
+- [ ] chapter-09 Practice set
 ## 🛠️ Tech
 - Python 3
 - VS Code
