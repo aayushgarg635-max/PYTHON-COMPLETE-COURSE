@@ -60,4 +60,5 @@ PERSONAL DETAILS:
 - Jarvis chatbot
 - AI auto reply chatbot
 - Facial recognisation etc.
+- and other intermediate projects as i will raise my level gradualy
 
