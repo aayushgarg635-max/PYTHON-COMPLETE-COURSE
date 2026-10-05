@@ -16,7 +16,7 @@ PERSONAL DETAILS:
 - Chapter-07 - Loops
 - Chapter-08 - Functions and Recursions
 - Chaptee-09 - File I/O
-- chapter-10 OOPS in  python programming
+- chapter-10 OOPS in  python 
 - chapter-11 Inheritance in OOPS
 - chapter-12 Advanced python - 1
 - chapter-13 Advanced python - 2
