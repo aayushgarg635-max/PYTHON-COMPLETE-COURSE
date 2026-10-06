@@ -5,7 +5,6 @@ This repository is a record of my Python learning journey. Each chapter's concep
 
 PERSONAL DETAILS:
 - B.Tech IT student at GGSIPU(ADGIPS),Delhi
-(1ST YEAR)
 ## 📁 Structure
 - Chapter-01 - Basics, pip, modules
 - Chapter-02 - Variables , Datatypes
@@ -60,5 +59,5 @@ PERSONAL DETAILS:
 - Jarvis chatbot
 - AI auto reply chatbot
 - Facial recognisation etc.
-- and other intermediate projects as i will raise my level gradualy
+- and other intermediate projects as i will raise my level gradually
 
