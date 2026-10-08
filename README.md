@@ -17,8 +17,8 @@ PERSONAL DETAILS:
 - Chaptee-09 - File I/O
 - chapter-10 OOPS in  python 
 - chapter-11 Inheritance in OOPS
-- chapter-12 Advanced python - 
-- chapter-13 Advanced python - 
+- chapter-12 Advanced python - 1
+- chapter-13 Advanced python - 2
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
