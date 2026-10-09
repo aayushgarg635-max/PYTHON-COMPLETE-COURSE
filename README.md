@@ -45,7 +45,7 @@ PERSONAL DETAILS:
 - Python 3
 - VS Code
 ## LEARNING APPROACH
-- Handbook Revision and Review
+- Handbook Revision and Review of concepts
 - Regular commits on github
 - Focusing on logic building
 - Revising and rebuilding concepts daily
@@ -59,5 +59,5 @@ PERSONAL DETAILS:
 - Jarvis chatbot
 - AI auto reply chatbot
 - Facial recognisation etc.
-- and other intermediate projects as i will raise my level gradually
+- and other intermediate projects as i will raise my level gradualy
 
