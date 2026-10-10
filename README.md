@@ -1,7 +1,7 @@
 
 # 🐍 MY PYTHON COMPLETE COURSE - FUNDAMENTALS
 
-This repository is a record of my Python learning journey. Each chapter's concepts and practice sets will be added separately.
+This repository is a record of my Python learning journey. Each chapter's concepts and practice sets will be added separately as i will complete them 
 
 PERSONAL DETAILS:
 - B.Tech IT student at GGSIPU(ADGIPS),Delhi
