@@ -38,7 +38,11 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [x] ch-09 Concepts
 - [ ] ch-09 Practice set
 - [ ] ch-10 Concepts
+- [ ] ch-10 Practice set
 - [ ] ch-11 Concepts
+- [ ] ch-11 Practice set
+- [ ] ch-12 Concepts
+- [ ] ch-12 Practice set
 ## 🛠️ Tech
 - Python 3
 - VS Code
